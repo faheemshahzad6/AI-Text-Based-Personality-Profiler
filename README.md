@@ -10,6 +10,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ![Alt Text](static/My_Network.gif)
 
+Here are Some of the Screenshots for My Live app:
+
+![Home Page 1](images/AI-Text-Based-Personality-Profiler1.png)
+![Home Page 2](images/AI-Text-Based-Personality-Profiler2.png)
+![Home Page 3](images/AI-Text-Based-Personality-Profiler3.png)
+![Home Page 4](images/AI-Text-Based-Personality-Profiler4.png)
+
 ---
 
 # Requirements
